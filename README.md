@@ -6,7 +6,7 @@ Minimaps were exported from the game files with a tool called [UE Viewer](http:/
 
 If your need tutorial, check out [here](https://www.airpressuretendency.net/fcsquad/squadmaps/squad_maps_do_it_yourself.html).
 
-# file structure
+# File structure
 | directory | file type |
 | --------- | --------- |
 | /original | the original files exported from game(tga file) |
